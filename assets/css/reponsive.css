@@ -1,0 +1,94 @@
+@media (min-width: 414px) and (max-width: 736px){
+    ._3XB6zw{
+        height: 3.625rem;
+        margin-top: 2.25rem;
+        margin-right: -6.125rem;
+        width: 14.875rem;
+        fill: #ee4d2d;
+    }
+    ._2oP3Vy{
+        display: none;
+    }
+    ._1ilxso__help-link {
+        margin-left: 220px;
+    }
+    ._2XRSuf {
+        width: 85rem;
+    }
+    .modal__inner{
+        top: -1px;
+        left: -1px;
+        width: 416px;
+    }
+    ._1L-Cp0{
+        width: 100%;
+    }
+    ._1It-dT {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .shopee_vn-info{
+        margin: 0 14px;
+        padding-left: 113px;
+        height: 1380px;
+    }
+    ._1ib9F1{
+        margin: 0;
+        text-align: center;
+        display: block;
+    }
+    ._3iAbMl{
+        display: block;
+        margin-top: 7px;
+    }
+    .qO3oPb{
+        padding: 5px 5px;
+    }
+    .qO3oPb:not(:last-child){
+        border: none;
+    }
+    .auth-form__heading{
+        padding: 0;
+        align-items: center;
+        text-align: center;
+        font-weight: 500;
+        max-width: 83%;
+        margin-top: -19px;
+    font-size: 18px;
+    }
+    .auth-form__input{
+        width: 93%;
+    }
+    .auth-form-btn__next{
+        width: 97%;
+    }
+    .shopee_vn-address {
+        padding: 0;
+    }
+    ._3hZhfd{
+        display: block;
+    }
+    ._1Q6CiU{
+        padding: 0;
+        width: 414px;
+    text-align: center;
+    margin-bottom: 10px;
+    }
+    ._3UA5oc{
+      position: relative;
+      margin:0;
+      
+    right: 175px;
+    }
+    ._1c2Tz5 {
+        display: flex;
+        font-size: 1.2rem;
+        justify-content: center;
+        align-items: center;
+        margin-left: 31px;
+        margin-top: 10px;
+        color: rgba(0,0,0,.65);
+        text-decoration: none;
+        text-align: center;
+    }
+}
